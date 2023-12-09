@@ -1,1 +1,11 @@
-
+events.hotjar.io
+tools.mouseflow.com
+cdn-test.mouseflow.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+realtime.luckyorange.com
+api.bugsnag.com
+app.bugsnag.com
+browser.sentry-cdn.com
+widgets.pinterest.com
+samsung-com.112.2o7.net
